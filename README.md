@@ -2,7 +2,8 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 nishonovofficial@gmail.com
+- 
 
 <!---
 ZafarNishonov/ZafarNishonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
